@@ -2,5 +2,6 @@
 Pull Request Attempt
 oolong
 dong ding oolong
-<br> best tea at chicha!
-<b> not sure why it's not getting pushed D:</b>
+best tea at chicha!
+not sure why it's not getting pushed D:
+is it not pushing because pull request is not needed to merge? D:
